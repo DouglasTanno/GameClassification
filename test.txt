@@ -1,0 +1,6 @@
+# ID	LINK	NAME	IMG	PRICE
+1687950 https://store.steampowered.com/app/1687950/Persona_5_Royal/?snr=1_7_15__13 Persona 5 Royal https://cdn.akamai.steamstatic.com/steam/apps/1687950/capsule_sm_120.jpg?t=1679398700 $59.99
+1809700 https://store.steampowered.com/app/1809700/Persona_3_Portable/?snr=1_7_15__13 Persona 3 Portable https://cdn.akamai.steamstatic.com/steam/apps/1809700/capsule_sm_120.jpg?t=1679398544 $19.99
+1113000 https://store.steampowered.com/app/1113000/Persona_4_Golden/?snr=1_7_15__13 Persona 4 Golden https://cdn.akamai.steamstatic.com/steam/apps/1113000/capsule_sm_120.jpg?t=1679398793 $19.99
+1382330 https://store.steampowered.com/app/1382330/Persona_5_Strikers/?snr=1_7_15__13 Persona\u00ae 5 Strikers https://cdn.akamai.steamstatic.com/steam/apps/1382330/capsule_sm_120.jpg?t=1679398772 $59.99
+1602010 https://store.steampowered.com/app/1602010/Persona_4_Arena_Ultimax/?snr=1_7_15__13 Persona 4 Arena Ultimax https://cdn.akamai.steamstatic.com/steam/apps/1602010/capsule_sm_120.jpg?t=1679398722 $29.99
